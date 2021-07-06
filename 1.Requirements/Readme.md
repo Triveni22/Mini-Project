@@ -10,7 +10,7 @@
        KEEPS FAMILY INFORMED.
        EASE ANXIETY.
        SEE AVAILABILITY, QUICKLY.
-        ## Advantages
+  ## Advantages
              1. It sets boundaries.
              2. It keeps us on track.
              3. It keeps us accountable.
