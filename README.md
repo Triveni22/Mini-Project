@@ -11,7 +11,11 @@ The functions used in the source code are simple and easy to understand. The one
 # SDLC ACTIVITY BASED LEARNING
 
 
-   ![image](https://user-images.githubusercontent.com/85540441/124758964-bdd08500-df4c-11eb-9083-f2bf6081ee15.png)   ![image](https://user-images.githubusercontent.com/85540441/124759022-d0e35500-df4c-11eb-8065-0d00b2b07af8.png)
+   ![image](https://user-images.githubusercontent.com/85540441/124758964-bdd08500-df4c-11eb-9083-f2bf6081ee15.png)           ![image](https://user-images.githubusercontent.com/85540441/124759022-d0e35500-df4c-11eb-8065-0d00b2b07af8.png)
+  
+  https://www.code-inspector.com/project/24732/score/svg
+  
+  https://www.code-inspector.com/project/24732/status/svg
 
 
    
