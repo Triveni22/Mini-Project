@@ -22,8 +22,10 @@
                                   
                                    
 ![images_2-01](https://user-images.githubusercontent.com/85540441/124632926-6544ad80-dea2-11eb-9b28-9d43cfa18ae5.jpg)
-    #### 4W's and 1'H
-    #### Who: It r is a hugely customizable, offline calendar app free for Android mobile phones designed to do exactly what an android                                      personal tiny calendar should do in 2020.
+
+
+  #### 4W's and 1'H
+  #### Who: It r is a hugely customizable, offline calendar app free for Android mobile phones designed to do exactly what an android                                      personal tiny calendar should do in 2020.
                                    
  #### What: It keeps us realistic. When planning out tasks and activities on the calendar, be realistic.
                                 
