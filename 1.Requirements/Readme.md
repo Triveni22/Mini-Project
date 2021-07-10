@@ -1,78 +1,37 @@
-# Railway Management System 
-
-# Introduction:-
-
-## What is Railway Management System ?
-In Railway Management System, we need to sort the various train details into a particular order in order to maintain it in a organised form. So firstly we take all the input details required from the passengers and then sort all the details accordingly. First module includes sorting train numbers using bubble sort. Second module includes sorting train names using selection sort. Third module includes sorting passenger names using insertion sort. And last module includes sorting PNR numbers using quick sort.
-
-## Objectives Of Project:-
-
-The purpose of this project is to develop “Railway Management System” which takes all the customer details and travel details as input and sorts all the information using various sort to arrange them in an organized manner.
-This code is basically written as a solution to the drawbacks of existing problems of arranging things in a particular order. This application can be used as a real world application and by any organization.
-
-# Benefits
-Railway Management System enables the customer details and travel details as input and sorts all the information using various sorts to arrange them in an organized manner.
-
-# Effective Management
-This system is effective, saves time of management. Thus, it saves organization resources and expenses.
-
-
-
-
-# Defining System:-
-
-![Design (3)](https://user-images.githubusercontent.com/67512847/114886960-a4281180-9e25-11eb-8229-84a16ebc15a2.png)
-
-
-# Explanation:-
-  ## Railway Management has some features.
-
-Management selects the case which they want(Case 1: Train numbers using Bubble Sort Algorithm Case 2:Train names using Selection sort algorithm, Case 3: passenger names using Insertion Sort algorithm, Case 4: PNR numbers using Quick Sort algorithm)the train details are sorted according to selected case 
-
-
-# SWOT Analysis:
-![Untitled Workspace (1)](https://user-images.githubusercontent.com/67512847/114881637-cff4c880-9e20-11eb-83c3-ed4db4cb3101.png)
-
-
-# 4W's and 1'H
-   
-   ## Who:
-          Railway Management System is a software solution by providing organized form. This system is used for any kind of train details into a particular order in order to maintain it in a organized form 
-    
-   ## What:
-           It is helpful for the management to save time.
-   
-   ## When:
-           The Railway Management System is now used in Railway department for easy sorting 
-   
-   ## Where:
-        Face the issues in collection of train details.
-   ## How:
-         This issue can be solved by requesting any proof i.e ticket.
-         
-       
-# Detail requirements
-## High Level Requirements: 
-| ID | Description | Category | Status | 
-| ----- | ----- | ------- | ---------|
-| HR01 | Management should be able to select the choice | Techincal | TBD-S1 | 
-| HR01 | Management should be able to enter Train names | Techincal | TBD-S1 | 
-| HR02 | Management should be able to enter Passenger names | Techincal | TBD-S1 |
-| HR03 | Management should be able to enter PNR numbers | Techincal | TBD-S1 |
-| HR04 | Management should be able to enter Train numbers | Techincal | TBD-S1 |
-| HR05 | Details should be sorted according to selected case| Techincal | TBD-S1 |
-
-##  Low level Requirements:
+#SIMLPLE CALENDAR
+## Requirements
+### Introduction
+#### What is Simple Calendar?
+  Simple Calendar is a hugely customizable, offline calendar app free for Android mobile phones designed to do exactly what an android personal              tiny calendar should do in 2020. It is a really flexible calendar with many event related options. It offers powerful repetition rules, optional CalDAV                          synchronization, ics file handling and much more.
+ #### Research
+ #### Benefits&Features
+  PLAN FOR STUDY TIME. With so many things going on, you may wonder when you'll have time to study.
+            TRACK DUE DATES.
+            KEEPS FAMILY INFORMED.
+             EASE ANXIETY.
+            SEE AVAILABILITY, QUICKLY.
+   ### Advantages
+           1. It sets boundaries.
+           2. It keeps us on track.
+           3. It keeps us accountable.
+           4. It keeps us realistic.
+  #### Defining System                               
+         2. It keeps us on track.
+         3. It keeps us accountable.
+         4. It keeps us realistic.
+                                  
+                                   
+![images_2-01](https://user-images.githubusercontent.com/85540441/124632926-6544ad80-dea2-11eb-9b28-9d43cfa18ae5.jpg)
+    #### 4W's and 1'H
+    #### Who: It r is a hugely customizable, offline calendar app free for Android mobile phones designed to do exactly what an android                                      personal tiny calendar should do in 2020.
+                                   
+ #### What: It keeps us realistic. When planning out tasks and activities on the calendar, be realistic.
+                                
+ #### When: It keeps us accountable. Scheduling my most recent doctor's appointment reminded me of how valuable appointments are.
  
-| ID | Description | HLR ID | Status (Implemented/Future) |
-| ------ | --------- | ------ | ----- |
-| LR01 | Management should be able to select the choice| HR01 | TBD-S1 |
-| LR02 | Management should be able to select choice 1 i.e Train numbers using Bubble Sort Algorithm| HR02 | TBD-S1 |
-| LR03 | Management should be able to select choice 2 i.e Train names using Selection sort algorithm| HR02 | TBD-S1 |
-| LR04 | Management should be able to select choice 3 i.e Passenger names using Insertion Sort algorithm| HR02 | TBD-S1 |
-| LR06 | Management should be able to select choice 4 i.e PNR numbers using Quick Sort algorithm| HR04 | TBD-S1 |
-| LR05 | Management should be able to Enter number of Passengers,enter Passenger Name,enter PNR Number,enter Train name,enter Train name| HR06 | TBD-S1 |
-| LR06 | Details should be sorted according to selected case| HR07| TBD-S1 |
+  #### Where: This program helps in finding out the date and day you want to know about. Also, it comes with some extra features.
+  
+  #### How: It provide the data starting from the late 1600’s. You can also directly get the day result by submitting the values.
 
 
                                    
