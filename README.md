@@ -8,6 +8,9 @@ The first module is to implement sorting of train numbers using the bubble sort.
 
 
 
+  ![image](https://user-images.githubusercontent.com/85540441/125171281-04ceac80-e1d1-11eb-96ea-df40787207c9.png)
+
+
 
 ## Folder Structure
 Folder             | Description
