@@ -1,4 +1,4 @@
-#SIMLPLE CALENDAR
+# SIMLPLE CALENDAR
 ## Requirements
 ### Introduction
 #### What is Simple Calendar?
