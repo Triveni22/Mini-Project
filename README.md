@@ -8,14 +8,16 @@ The first module is to implement sorting of train numbers using the bubble sort.
 
 
 
-[![Code Quality - Static Code - Cppcheck](https://github.com/Triveni22/Mini-Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Triveni22/Mini-Project/actions/workflows/cppcheck.yml)
 
-[![Unit Testing - Unity](https://github.com/Triveni22/Mini-Project/actions/workflows/unity.yml/badge.svg)](https://github.com/Triveni22/Mini-Project/actions/workflows/unity.yml)
-
-
- [![Contribution Check - Git Inspector](https://github.com/Triveni22/Mini-Project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Triveni22/Mini-Project/actions/workflows/gitinspector.yml)
-
-
+## Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`1_Requirements`   | Documents detailing requirements and research
+`2_Design`         | Documents specifying design details
+`3_Implementation` | All code and documentation
+`4_Test_plan`      | Documents with test plans and procedures
+`5_Imagesandvideos`   | Images and Videos 
+`6_Report`   | Report 
 
 
                           
