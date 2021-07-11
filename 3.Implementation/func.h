@@ -33,6 +33,22 @@ void decrease_month(int *mm,  int *yy)
 {
 
 }
+struct Date{
+    int dd;
+    int mm;
+    int yy;
+};
+struct Date date;
+
+struct Remainder{
+    int dd;
+    int mm;
+    char note[50];
+};
+struct Remainder R;
+
+
+COORD xy = {0, 0};
 void print_date(int mm, int yy)
 {
 
