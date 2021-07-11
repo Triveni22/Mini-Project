@@ -10,18 +10,23 @@
             KEEPS FAMILY INFORMED.
              EASE ANXIETY.
             SEE AVAILABILITY, QUICKLY.
-   ### Advantages
-           1. It sets boundaries.
-           2. It keeps us on track.
-           3. It keeps us accountable.
-           4. It keeps us realistic.
-  #### Defining System                               
-         2. It keeps us on track.
-         3. It keeps us accountable.
-         4. It keeps us realistic.
+### Advantages
+1. It sets boundaries.
+2. It keeps us on track.
+3. It keeps us accountable.
+4. It keeps us realistic.
+#### Defining System                               
+1. It keeps us on track.
+2. It keeps us accountable.
+3. It keeps us realistic.
                                   
                                    
 ![images_2-01](https://user-images.githubusercontent.com/85540441/124632926-6544ad80-dea2-11eb-9b28-9d43cfa18ae5.jpg)
+
+![SWOT Analysis](https://user-images.githubusercontent.com/85540441/125193904-858eb680-e26c-11eb-8603-daee4a15b111.png)
+
+
+
 
 
   #### 4W's and 1'H
