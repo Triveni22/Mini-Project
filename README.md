@@ -9,7 +9,8 @@ Simple Calendar is a hugely customizable, offline calendar app free for Android 
 
 ## SDLC ACTIVITY BASED LEARNING:
 
-![image](https://user-images.githubusercontent.com/85540441/125198659-731e7800-e280-11eb-95da-2910342fb96e.png) ![image](https://user-images.githubusercontent.com/85540441/125198703-b11b9c00-e280-11eb-868c-fd3219994e1c.png)
+
+ [![CI](https://github.com/Triveni22/Mini-Project/actions/workflows/main.yml/badge.svg)](https://github.com/Triveni22/Mini-Project/actions/workflows/main.yml)
 
 
 
@@ -26,4 +27,3 @@ Folder             | Description
 
      
      
- [![CI](https://github.com/Triveni22/Mini-Project/actions/workflows/main.yml/badge.svg)](https://github.com/Triveni22/Mini-Project/actions/workflows/main.yml)
