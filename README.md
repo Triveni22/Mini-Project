@@ -24,4 +24,6 @@ Folder             | Description
 `6.Report`   | Report 
 
 
-                          
+     
+     
+ [![CI](https://github.com/Triveni22/Mini-Project/actions/workflows/main.yml/badge.svg)](https://github.com/Triveni22/Mini-Project/actions/workflows/main.yml)
