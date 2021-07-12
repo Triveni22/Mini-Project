@@ -23,7 +23,8 @@ It sets boundaries.
 ## Defining System:                              
        
                                    
-![images_2-01](https://user-images.githubusercontent.com/85540441/124632926-6544ad80-dea2-11eb-9b28-9d43cfa18ae5.jpg)
+![image](https://user-images.githubusercontent.com/85540441/125240150-58dbad00-e307-11eb-8b53-9dd44efbca74.png)
+
 
 
 ## Swot Analysis:
