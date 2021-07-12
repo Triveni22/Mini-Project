@@ -11,6 +11,7 @@ Simple Calendar is a hugely customizable, offline calendar app free for Android 
 
 
  [![CI](https://github.com/Triveni22/Mini-Project/actions/workflows/main.yml/badge.svg)](https://github.com/Triveni22/Mini-Project/actions/workflows/main.yml)
+ [![Contribution Check - Git Inspector](https://github.com/Triveni22/Mini-Project/actions/workflows/Gitinspector.yml/badge.svg)](https://github.com/Triveni22/Mini-Project/actions/workflows/Gitinspector.yml)
 
 
 
