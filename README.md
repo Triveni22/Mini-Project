@@ -7,13 +7,15 @@ Simple Calendar is a hugely customizable, offline calendar app free for Android 
 
 
 ## SDLC Activity Based Learning
+Code Quality | Gitinspector
+|---------|------------
+[![Static Code Quality- Cppcheck](https://github.com/Triveni22/Mini-Project/actions/workflows/cpp.yml/badge.svg)](https://github.com/Triveni22/Mini-Project/actions/workflows/cpp.yml) | [![Contribution Check - Git Inspector](https://github.com/Triveni22/Mini-Project/actions/workflows/Gitinspector.yml/badge.svg)](https://github.com/Triveni22/Mini-Project/actions/workflows/Gitinspector.yml)
 
 
 
- [![CI](https://github.com/Triveni22/Mini-Project/actions/workflows/main.yml/badge.svg)](https://github.com/Triveni22/Mini-Project/actions/workflows/main.yml) [![Contribution Check - Git Inspector](https://github.com/Triveni22/Mini-Project/actions/workflows/Gitinspector.yml/badge.svg)](https://github.com/Triveni22/Mini-Project/actions/workflows/Gitinspector.yml) [![Static Code Quality- Cppcheck](https://github.com/Triveni22/Mini-Project/actions/workflows/cpp.yml/badge.svg)](https://github.com/Triveni22/Mini-Project/actions/workflows/cpp.yml) ![image](https://user-images.githubusercontent.com/85540441/125287314-62323d00-e33a-11eb-8507-99f14ee146e8.png) ![image](https://user-images.githubusercontent.com/85540441/125287342-69f1e180-e33a-11eb-9f05-872f117fb76c.png)
-
-
-
+CI(Continuous Integration)| Code Quality Score | Code Grade
+|---------|------------|------------
+[![CI](https://github.com/Triveni22/Mini-Project/actions/workflows/main.yml/badge.svg)](https://github.com/Triveni22/Mini-Project/actions/workflows/main.yml)|![image](https://user-images.githubusercontent.com/85540441/125287314-62323d00-e33a-11eb-8507-99f14ee146e8.png)| ![image](https://user-images.githubusercontent.com/85540441/125287342-69f1e180-e33a-11eb-9f05-872f117fb76c.png)
 
 ### Folder Structure
 
