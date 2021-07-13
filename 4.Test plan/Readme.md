@@ -1,6 +1,5 @@
-# TEST PLAN:
-
-##  High level test plan
+## TEST PLAN
+## High level test plan
 
 | **Test ID** | **Description**                                              | **Expected Input** | **Expected Output** | **Actual Output** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
@@ -12,9 +11,6 @@
 |  H_06       |Check after getting the note by pressing q we can quit the red background by pressing s we can see the note |User's choice | SUCCESS| SUCCESS|Requirement based  |
 |  H_07       |If the user want to exit then check the choice from the below and exit from from the code  |User's choice | SUCCESS| SUCCESS|Requirement based  
 
-
-
-
 ## Low level test plan
 
 | **Test ID** | **Description**                                              | **Expected Input** | **Expected Output** | **Actual Output** |**Type Of Test**  |    
@@ -22,5 +18,4 @@
 |  L_01       |When choosing from the available options, check if the input is valid or invalid|User's Choice| Invoke the process| SUCCESS|Scenario based |
 |  L_02       |When user get the add note then  by clicking the p we will get to prevoius and by clicking n we will go to next. |User's choice| SUCCESS| SUCCESS|Scenario based    |
 |  L_03       |Check the details of the program from which year to which year we can get acess| User's choice as an integer| PASS| SUCCESS|Scenario based    |
-|  L_04       |If the Unknown year is provided |User's choice as an alphabets| Invalid Message| Invalid message|Scenario based    |
-
+|  L_04       |If the Unknown year is provided |User's choice as an alphabets| Invalid Message| Invalid message|Scenario based    
